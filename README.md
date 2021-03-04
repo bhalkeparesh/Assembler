@@ -1,5 +1,5 @@
 Assembler converts basic instruction of assembly
-language to Opcodes, similar to NASM
+language to equivalent machine code, similar to NASM
 
 Functionalities:
 1. Symbol Table
